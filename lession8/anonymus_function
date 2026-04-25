@@ -1,0 +1,10 @@
+
+
+setTimeOut(function(){
+    console.log('sau 1  thi thuc hien dong message nay')
+}, 3000) 
+
+
+setTimeout(()=> {
+     console.log('sau 1  thi thuc hien dong message nay')
+})                 
